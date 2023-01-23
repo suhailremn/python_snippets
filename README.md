@@ -1,1 +1,1 @@
-Python Snippets by Suhail
+Suhail Learning Python
